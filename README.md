@@ -1,5 +1,6 @@
 # Made By SummerBeach Main Developer 갓콩
 
+# 2024년 1월 후로 활동X
 ##### 안내 ####
 
 이 스크립트는 서버에 접속하면 디스코드로 ~하는중을 표시하는 스크립트입니다.
@@ -17,3 +18,4 @@ Config.lua 파일로 간단히 스크립트 수정이 가능합니다.
 ```
 
 # SummerBeach Discord : https://discord.gg/setm
+
